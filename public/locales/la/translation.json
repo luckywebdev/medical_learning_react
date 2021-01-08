@@ -1,0 +1,239 @@
+{
+    "side_menu": {
+      "dashboard": "Dashboard",
+      "favourite": "Favourites",
+      "survey": "Survey",
+      "notification": "Notifications",
+      "profile": "My Profile",
+      "about": "About Us",
+      "help": "Help",
+      "risk": "Risk Score Calculator",
+      "contact": "Contact Us",
+      "logout": "Log Out"
+    },
+
+    "sub_content": "The salary of Kathryn Webster is pending since 15 December. Learn More",
+  
+    "footer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+
+    "login": {
+        "title1": "Welcome to",
+        "title2": "Gulf Cardoimetabolic",
+        "title3": "Masterclass…",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "remember_me": "Remember me",
+        "forgot_password": "Forgot Password?",
+        "modal_title": "Disclaimer",
+        "modal_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "login_failed": "Invalid user name and password",
+        "login_email_empty": "Please enter your email",
+        "login_password_empty": "Please enter your password",
+        "signup_failed": "Email is already taken.",
+        "validation_text": "Email and Password are required",
+        "forgotPassword": "Forgot Password"
+      },
+
+    "dashboard": {
+        "title": "Welcome",
+        "academic_library": {
+            "title": "Academic Library",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+        },
+        "program_session": {
+            "title": "Program Sessions",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+        },
+        "speakers": {
+            "title": "Speakers Q & A",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+        },
+        "clinic": {
+            "title": "My Clinic",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+        }
+    },
+
+    "academic_library": {
+        "title": "Academic Library",
+        "table_title": {
+            "article_name": "Article Name",
+            "author_name": "Author Name",
+            "published_year": "Published Year",
+            "number_of_page": "Number of Page",
+            "favourite": "Favourite"
+        }
+    },
+
+    "program_session": {
+        "title": "Program Sessions",
+        "table_title": {
+            "lates_video": "Latest Video",
+            "name": "Name",
+            "present_by": "Present By",
+            "time": "Time",
+            "favourite": "Favourite"
+        },
+        "description": "Description"
+    },
+
+    "speakers": {
+        "title": "Speakers Q & A",
+        "table_title": {
+            "speaker_name": "Speaker Name",
+            "avatar": "Avatar",
+            "position": "Position",
+            "chat": "Chat"
+        },
+        "expert_profile": {
+            "title": "Expert Profile",
+            "information": "Information:",
+            "publication": "Publications:"
+        },
+        "ask_doctor": "Ask Doctor"
+    },
+
+    "clinic": {
+        "title": "Train The Trainer",
+        "warning": {
+            "title": "Warning",
+            "content": "We need exam will open after watching both videos !"
+        },
+        "success": "You have successfully completed this week's case.",
+        "question": "Question",
+        "related_answer": "Related Answers:",
+        "train_center_image_alt1": "Please completing both video",
+        "train_center_image_alt2": "Answer this exam to test your knowledge",
+        "train_tab_btn1": "My Clinic",
+        "train_tab_btn2": "Test your knowledge",
+        "train_exam_start": "Start Exam",
+        "train_exam_text": "Lorem ipsum dolor sit amet, consecte tur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consecte tur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consecte tur adipiscing elit",
+        "train_exam_title": "Exam Topic",
+        "train_exam_success": "Congratulations,",
+        "train_exam_fail": "Sorry,",
+        "train_exam_try": "Take Exam Again"
+   },
+
+    "favourite": {
+        "title": "Favourites",
+        "video_table_title": {
+            "title": "Videos:",
+            "lates_video": "Latest Video",
+            "name": "Name",
+            "present_by": "Present By",
+            "time": "Time"
+        },
+        "article_table_title": {
+            "title": "Reference articles:",
+            "article_name": "Article Name",
+            "author_name": "Author Name",
+            "published_year": "Published Year",
+            "number_of_page": "Number of Page"
+        }
+    },
+
+    "survey": {
+        "title": "Survey Title"
+    },
+
+    "risk": {
+        "title": "Risk Score Calculator"
+    },
+
+    "notification": {
+        "title": "Notifications",
+        "table_title": {
+            "title": "notifications:",
+            "latest_notification": "Latest Notification",
+            "time": "Time",
+            "link": "Link"
+        }
+    },
+    
+    "profile": {
+        "title": "Profile",
+        "speciality": "Speciality:",
+        "general_practitioner": "General Practitioner:",
+        "work_at": "Work At:",
+        "location": "Location:",
+        "email": "Email:",
+        "phone": "Phone:"
+    },
+
+    "about": {
+      "title": "About Us",
+      "about_app": {
+        "title": "About App:",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+
+      "privacy":{
+        "title": "Privacy Policy:",
+        "content_first": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content_second": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content_third": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "content_forth": "",
+        "content_fifth": "",
+        "content_sixth": ""
+      }
+    },
+
+    "help": {
+      "title": "Help",
+      "content_first": {
+          "title": "Academic Library:",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "content_second": {
+          "title": "Program Sessions:",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "content_third": {
+          "title": "Speakers Q & A:",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "content_forth": {
+          "title": "My clinic:",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+
+    },
+
+    "contact": {
+        "title": "Contact Us"        
+    },
+
+    "logout": {
+        "title": "Are you sure you want to log out ?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+
+    "utility": {
+        "login": "Login",
+        "signup": "Sign Up",
+        "agree": "Agree",
+        "disagree": "Disagree",
+        "filter": "Filter",
+        "filter_by_category": "Filter by Category:",
+        "sort_by": "Sort by:",
+        "done": "Done",
+        "ask_question": "Ask Question",
+        "add_article": "Add Fravorite",
+        "remove_article": "Remove Fravorite",
+        "view": "view",
+        "close": "Close",
+        "more": "More...",
+        "change_profile": "Change Profile",
+        "change_password": "Change Password",
+        "save": "Save",
+        "send": "Send",
+        "logout": "Log Out",
+        "cancel": "Cancel",
+        "ok": "Ok",
+        "learn_more": "Learn More",
+        "make_read": "Make as Read",
+        "submitAnswer": "Submit Answers",
+        "thanks": "Thank You",
+        "risk": "Use the Calculator"
+      }
+    
+  }
